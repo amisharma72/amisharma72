@@ -1,143 +1,207 @@
-# Amit Paudyal
+# 👋 Hi, I'm Amit Paudyal
 
 ### Technical Program Manager | Software Engineering Background
 
-[Portfolio](https://amitpaudyal.com) • [LinkedIn](https://www.linkedin.com/in/aspaudyal)
+<p align="left">
+  <a href="https://amitpaudyal.com">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/aspaudyal">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## Professional Summary
+## 👨‍💻 About Me
 
-Technical Program Manager with 6+ years of experience leading cloud modernization, AI automation, platform integration, and reliability programs across enterprise environments.
+I'm a **Technical Program Manager with a software engineering background**, focused on turning complex technical initiatives into clear, executable programs.
 
-I bring a software engineering foundation to technical program leadership, with experience driving complex initiatives across requirements, architecture, dependencies, risk, release readiness, production operations, and cross-functional execution.
+My experience spans:
 
-### Selected Impact
+- ☁️ Cloud & platform modernization
+- 🤖 AI automation and adoption
+- 🔄 Platform integration and release automation
+- 🧭 Cross-functional technical program delivery
+- 🛡️ Reliability, observability, and incident management
+- 📊 Program metrics, planning, and executive communication
 
-- **~40 min → a few minutes** — drove delivery of a reusable SPA Integration Framework supporting 5 applications and 20+ Content Fragment Models.
-- **18 migrations** — migrated 10 Toyota repositories to AEM as a Cloud Service and consolidated 8 J.B. Hunt digital properties onto AEM.
-- **~350K → ~450K monthly visits** — supported a refreshed digital platform following CMS consolidation.
-- **50+ repositories / 20+ teams** — built and scaled an AI accessibility remediation agent.
-- **40% fewer P1/P2 incidents** — led cross-team incident management, root-cause analysis, and proactive risk mitigation.
-- **30% faster planning** — improved backlog refinement and planning efficiency using Power BI program dashboards.
+I enjoy working at the intersection of **engineering depth, product context, and program execution**.
 
 ---
 
-## Technical Program Leadership
+## 🎯 What I Work On
 
-- End-to-End Technical Program Delivery
+<table>
+<tr>
+<td width="50%">
+
+### 🧩 Technical Program Leadership
+
+- End-to-End Program Delivery
 - Cross-Functional Execution
-- Roadmap Development
+- Roadmaps & Milestones
 - Requirements & Acceptance Criteria
 - Risk & Dependency Management
-- Technical Trade-off Management
+- Technical Trade-offs
 - Release Management
-- Executive Reporting & Program Metrics
 - Stakeholder & Executive Communication
-- Incident Management
+
+</td>
+
+<td width="50%">
+
+### ⚙️ Engineering & Platforms
+
+- Cloud Modernization
+- Platform Integration
+- REST APIs
+- CI/CD & Automation
 - Production Reliability
-- Agile / Scrum
+- Observability
+- Incident Management
+- Technical Documentation
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Technical Foundation
+## 🛠️ Technical Stack
 
-### Cloud & Platforms
-AWS • Azure • Adobe Experience Manager (AEM) • AEM as a Cloud Service
+### Languages & Frameworks
 
-### Software Engineering
-Java • Python • JavaScript • SQL • PHP • React • REST APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,react,html,css" />
+</p>
+
+### Cloud & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,azure,github,jenkins,docker" />
+</p>
 
 ### AI & Automation
-Agentic AI • LLMs • RAG • Prompt Engineering • AI Automation • Microsoft Copilot • Power Automate
 
-### DevOps & Observability
-GitHub • Jenkins • CI/CD • Azure DevOps • Dynatrace • New Relic • Grafana • Power BI
+<p>
+  <img src="https://img.shields.io/badge/Agentic%20AI-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/LLMs-7C3AED?style=flat-square" />
+  <img src="https://img.shields.io/badge/RAG-2563EB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-0891B2?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI%20Automation-059669?style=flat-square" />
+</p>
 
----
+### Platforms & Tools
 
-## Featured Projects
-
-### [NutriScan](https://github.com/amisharma72/nutriscan)
-
-AI-powered nutrition application designed to turn product-label data into personalized recommendations.
-
-- Built with **Python, FastAPI, REST APIs, AWS, Gemini, and Llama**
-- Designed an API-driven workflow for analyzing structured nutrition data
-- Supports pluggable AI-provider architecture and local development mode
-
----
-
-### [Deployment Monitor](https://github.com/amisharma72/deployment-monitor)
-
-Centralized deployment dashboard for tracking GitHub Actions workflows across multiple repositories.
-
-- Built with **React, GitHub Actions, Node.js, and REST APIs**
-- Surfaces deployment status, workflow runs, branches, actors, and timestamps
-- Designed to reduce repeated manual deployment-status checking
+<p>
+  <img src="https://img.shields.io/badge/Adobe%20Experience%20Manager-FF0000?style=flat-square&logo=adobe&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
+</p>
 
 ---
 
-### [AdviselyAI](https://github.com/amisharma72/advisely-ai)
+## 🚀 Featured Projects
 
-Prototype AI academic-advising platform designed to help students plan courses and stay on track toward graduation.
+### 🥗 NutriScan
 
-- Built an explainable degree-planning prototype
-- Includes prerequisite-aware course recommendations
-- Original concept ranked **Top 10 out of 100+ pitches** at Mississippi State University's Startup Summit
+AI-powered nutrition analysis application that turns structured product-label data into personalized recommendations.
 
----
+**Highlights**
+- FastAPI-based REST architecture
+- Pluggable AI-provider design
+- Structured nutrition analysis workflow
+- Local development and testing support
 
-## Selected Professional Work
+**Tech:** Python · FastAPI · REST APIs · AWS · Gemini · Llama
 
-### Platform Integration & Release Automation
-
-Drove delivery of Toyota's SPA Integration Framework, a reusable capability that standardized how Single-Page Applications are onboarded, configured, and deployed into AEM as a Cloud Service.
-
-The framework replaced recurring manual, app-specific deployment steps with an automated AWS-orchestrated workflow and reduced deployment time from approximately **40 minutes to a few minutes**.
-
-### Enterprise Platform Modernization
-
-Led migrations across enterprise digital platforms, including:
-
-- 10 Toyota repositories → AEM as a Cloud Service
-- 5 Kentico sites + 3 WordPress blogs → consolidated AEM platform
-- 4-engineer migration team
-- 20+ members across 3 time zones on compliance-critical delivery
-
-### AI Automation & Adoption
-
-Built an AI accessibility remediation agent and led its expansion from a single repository to **20+ teams and 50+ repositories**.
-
-Also helped drive AI adoption across product teams through demonstrations of GitHub Copilot, VS Code, Azure DevOps MCP workflows, and AI-assisted story preparation.
+🔗 [View Repository](https://github.com/amisharma72/nutriscan)
 
 ---
 
-## Education & Certifications
+### 🚦 Deployment Monitor
+
+Centralized dashboard for monitoring deployment workflows across multiple repositories.
+
+**Highlights**
+- Unified deployment visibility
+- GitHub Actions integration
+- Workflow and status tracking
+- Server-side credential handling
+- Demo/mock mode for safe public use
+
+**Tech:** React · Node.js · GitHub Actions · REST APIs
+
+🔗 [View Repository](https://github.com/amisharma72/deployment-monitor)
+
+---
+
+### 🎓 AdviselyAI
+
+Prototype academic-planning assistant designed to help students understand degree progress and identify next-course options.
+
+**Highlights**
+- Explainable planning logic
+- Prerequisite-aware recommendations
+- Structured degree-plan model
+- Designed as an early-stage product prototype
+
+**Tech:** Python · FastAPI · REST APIs
+
+🔗 [View Repository](https://github.com/amisharma72/advisely-ai)
+
+---
+
+## 🧠 Areas of Interest
+
+<p>
+  <img src="https://img.shields.io/badge/Technical%20Program%20Management-4F46E5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cloud%20Platforms-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20Automation-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Platform%20Modernization-0891B2?style=for-the-badge" />
+</p>
+
+---
+
+## 🎓 Education & Certifications
+
+### Education
 
 **Bachelor of Science in Computer Science**  
-Mississippi State University  
-Summa Cum Laude • President's Scholar
+Mississippi State University
 
 ### Certifications
 
-- Google — Foundations of Project Management
-- Oracle — Agentic AI Certified Foundations Associate
-- Microsoft Azure AI Fundamentals (AI-900) — In Progress
+- 📘 Google — Foundations of Project Management
+- 🤖 Oracle — Agentic AI Certified Foundations Associate
+- ☁️ Microsoft Azure AI Fundamentals (AI-900) — In Progress
 
 ---
 
-## Recognition
+## 💡 How I Approach Technical Programs
 
-**2025 Excellence Achievers Team Award**  
-Recognized for outstanding contributions to Toyota projects and enterprise delivery.
+> Understand the system.  
+> Make dependencies visible.  
+> Translate goals into executable plans.  
+> Surface risk early.  
+> Keep teams aligned through delivery.
 
 ---
 
-## Let's Connect
+## 🤝 Let's Connect
 
-I'm interested in Technical Program Management opportunities involving:
+I'm interested in roles and conversations around:
 
-**Cloud Platforms • AI Automation • Enterprise Modernization • Reliability • Developer Productivity**
+**Technical Program Management · Cloud Platforms · AI Automation · Platform Modernization · Reliability**
 
-[LinkedIn](https://www.linkedin.com/in/aspaudyal) • [Portfolio](https://amitpaudyal.com)
+<p>
+  <a href="https://www.linkedin.com/in/aspaudyal">
+    <img src="https://img.shields.io/badge/LinkedIn-Amit%20Paudyal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://amitpaudyal.com">
+    <img src="https://img.shields.io/badge/Portfolio-amitpaudyal.com-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
