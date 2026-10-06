@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Amit Paudyal
+# 👋 Hi, I'm Amit
 
 ### Technical Program Manager with a Software Engineering Background
 
