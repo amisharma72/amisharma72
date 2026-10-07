@@ -3,9 +3,6 @@
 ### Technical Program Manager with a Software Engineering Background
 
 <p>
-  <a href="https://amitpaudyal.com">
-    <img src="https://img.shields.io/badge/Portfolio-amitpaudyal.com-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/aspaudyal">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -150,8 +147,5 @@ Mississippi State University
 <p>
   <a href="https://www.linkedin.com/in/aspaudyal">
     <img src="https://img.shields.io/badge/LinkedIn-Amit%20Paudyal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://amitpaudyal.com">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-111827?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
